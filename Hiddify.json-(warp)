@@ -53,13 +53,13 @@
       "tag": "IP->Iran, instagram:sslri",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
+        "2606:4700:110:877d:a965:de71:b535:6da3/128"
       ],
-      "private_key": "CBVIIWvXdLr4PbSrnm11ZJJ300IiPudRD4R62/IxV1g=",
-      "server": "162.159.195.93",
+      "private_key": "8PZ+yEG9jFX93rY/Y5q0EjxDIIalvV4u+EJA8ohf5HU=",
+      "server": "162.159.192.121",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [208,235,99],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
@@ -69,13 +69,13 @@
       "detour": "IP->Iran, instagram:sslri",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
+        "2606:4700:110:80b1:4ebd:d7b0:70e4:fc8f/128"
       ],
-      "private_key": "CCC/TQTc82ub9i8f37Rpix2v425Sv/mxTzvE/iKRMkw=",
-      "server": "162.159.195.93",
+      "private_key": "gCgcziydLp80leX7MpnEMOZc0RDkcM2L1A6SaIVJsVA=",
+      "server": "162.159.192.121",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [101,227,141],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
