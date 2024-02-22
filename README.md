@@ -15,8 +15,6 @@ curl -sL "https://api.zeroteam.top/warp?format=sing-box" | grep -Eo --color=neve
 
 ### Windows
 
-Use steps of the previous section, but:
-
  - Extract [this zip file](https://github.com/SSLRI/configs/blob/main/WINwarp%E8%87%AAIP-v23.11.15.zip) and open the WarpIPEndpointScanner.bat to start the scanner.
  - download and run windows version of [Warp-Reg](https://github.com/badafans/warp-reg/releases).
 ---------------------------------------------------------------------
